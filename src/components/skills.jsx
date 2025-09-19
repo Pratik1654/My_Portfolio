@@ -15,8 +15,7 @@ import {
 import {
  
 
-  SiJavascript,
-  SiPython,
+ 
   SiReact,
 } from "react-icons/si";
  
