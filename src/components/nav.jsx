@@ -7,7 +7,7 @@ const Navbar = () => {
         
         {/* Navigation links */}
         <div className="hidden md:flex space-x-8">
-          <a href="#name" className="text-sky-700 hover:text-sky-500 transition">Home</a>
+          <a href="#home" className="text-sky-700 hover:text-sky-500 transition">Home</a>
           <a href="#about" className="text-sky-700 hover:text-sky-500 transition">About</a>
           <a href="#education" className="text-sky-700 hover:text-sky-500 transition">Education</a>
           <a href="#experience" className="text-sky-700 hover:text-sky-500 transition">Experience</a>
