@@ -14,7 +14,7 @@ import {
 } from "react-icons/fa";
 import {
  
-  SiReact,
+
   SiJavascript,
   SiPython,
 } from "react-icons/si";
