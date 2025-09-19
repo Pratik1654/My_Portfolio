@@ -272,7 +272,7 @@ function App() {
 
             <div className="flex justify-center">
               <img
-                src="/image-Photoroom.png"
+                src="/image-Photoroom.png" alt="description"
                 className="rounded-xl w-full "
               />
             </div>
